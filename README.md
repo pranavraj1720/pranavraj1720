@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **some javascript frameworks**
 
-- 💬 Ask me about **HTML, Css and Javascript**
+- 💬 Ask me about: **HTML, Css and Javascript**
 
-- 📫 How to reach me **pranavraj1720@protonmail.com**
+- 📫 How to reach me: **pranavraj1720@protonmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 <br> <br>
