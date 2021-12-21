@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realisticcoder" alt="realisticcoder" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/realisticcoder" target="blank"><img src="https://img.shields.io/twitter/follow/realisticcoder?logo=twitter&style=for-the-badge" alt="realisticcoder" /></a> </p>
-
-- 🔭 I’m currently working on [TechFest IIT Bombay(Web Weaver)](http://realisticcoder.github.io/TechFestProject/)
+- 🔭 I’m currently working on [TechFest IIT Bombay [Web Weaver]](http://realisticcoder.github.io/TechFestProject/)
 
 - 🌱 I’m currently learning **JavaScript**
 
