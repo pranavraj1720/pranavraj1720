@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realisticcoder&label=Profile%20views&color=0e75b6&style=flat" alt="realisticcoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realisticcoder" alt="realisticcoder" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavraj1720" alt="pranavraj1720" /></a> </p>
 
-- 🔭 I’m currently working on [TechFest IIT Bombay [Web Weaver]](http://realisticcoder.github.io/TechFestProject/)
+- 🔭 I’m currently working on [TechFest IIT Bombay [Web Weaver]](http://pranavraj1720.github.io/TechFestProject/)
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/realisticcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realisticcoder" height="30" width="40" /></a>
-<a href="https://instagram.com/realisticcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realisticcoder" height="30" width="40" /></a>
+<a href="https://instagram.com/pranavraj1720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realisticcoder" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/realisticcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="realisticcoder" height="30" width="40" /></a>
 <a href="https://discord.gg/h9FHhDAH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="h9FHhDAH" height="30" width="40" /></a>
 </p>
