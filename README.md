@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavraj1720" alt="pranavraj1720" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/realisticcoder" target="blank"><img src="https://img.shields.io/twitter/follow/realisticcoder?logo=twitter&style=for-the-badge" alt="realisticcoder" /></a> </p>
 
 - 🔭 I’m currently working on [TechFest IIT Bombay [Web Weaver]](https://pranavraj1720.github.io/TechFestProject/)
 
