@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavraj1720" alt="pranavraj1720" /></a> </p>
 
 
-- 🔭 I’m currently working on [Disocrd Website Clone](https://github.com/pranavraj1720/Discord-Website-Clone)
+- 🔭 I’m currently working on [Discord Website Clone](https://github.com/pranavraj1720/Discord-Website-Clone)
 
 - 🌱 I’m currently learning **JavaScript**
 
