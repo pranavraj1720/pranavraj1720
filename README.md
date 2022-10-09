@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I listen songs while coding**
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pranavraj1720/pranavraj1720/blob/master/devcard.svg" width="400" alt="Pranav Raj's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pranavraj1720/pranavraj1720/blob/main/devcard.svg" width="400" alt="Pranav Raj's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
