@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **I listen songs while coding**
 
+https://api.daily.dev/devcards/497c8111c52045bf9f5dcfd62f11c7ff.png?r=pe8
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/realisticcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realisticcoder" height="30" width="40" /></a>
